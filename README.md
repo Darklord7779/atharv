@@ -1,2 +1,0 @@
-# atharv
-expt-18
